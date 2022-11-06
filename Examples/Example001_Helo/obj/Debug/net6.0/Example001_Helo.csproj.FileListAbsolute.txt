@@ -1,0 +1,15 @@
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\bin\Debug\net6.0\Example001_Helo.exe
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\bin\Debug\net6.0\Example001_Helo.deps.json
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\bin\Debug\net6.0\Example001_Helo.runtimeconfig.json
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\bin\Debug\net6.0\Example001_Helo.dll
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\bin\Debug\net6.0\Example001_Helo.pdb
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.csproj.AssemblyReference.cache
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.AssemblyInfoInputs.cache
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.AssemblyInfo.cs
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.csproj.CoreCompileInputs.cache
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.dll
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\refint\Example001_Helo.dll
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.pdb
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\Example001_Helo.genruntimeconfig.cache
+C:\Users\ЛМила\Desktop\C#\Examples\Example001_Helo\obj\Debug\net6.0\ref\Example001_Helo.dll
